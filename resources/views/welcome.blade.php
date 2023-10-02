@@ -520,7 +520,7 @@
                                     push
                                     the codes.
                                 </li>
-                                <li>Please create a Pull Request to the development branch.
+                                <li>Please create a Pull Request pointing to the development branch.
                                 </li>
                                 <li>If you have done everything correctly, Then we will reach you out soon.</li>
                                 <li>See you dear candidate! Congratulations on you career</li>
